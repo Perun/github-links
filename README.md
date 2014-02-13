@@ -18,3 +18,5 @@ Links zum Thema GitHub, Git, aber auch zum Thema [Markdown](http://de.wikipedia.
 
 1. [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) – für Einsatz auf GitHub angepasstes Markdown.
 2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) – Spickzettel für Markdown
+3. [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
+4. [MarkdownPad](http://markdownpad.com) – sehr guter Markdown-Editor für Windows 
