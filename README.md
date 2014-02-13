@@ -17,3 +17,4 @@ Links zum Thema GitHub, Git, aber auch zum Thema [Markdown](http://de.wikipedia.
 ## Markdown
 
 1. [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) – für Einsatz auf GitHub angepasstes Markdown.
+2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) – Spickzettel für Markdown
